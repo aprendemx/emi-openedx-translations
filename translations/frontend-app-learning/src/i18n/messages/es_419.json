@@ -207,7 +207,7 @@
   "tours.weeklyGoalsCheckpoint.title": "Establecer un objetivo del curso",
   "tours.newUserModal.title": "¡{welcome} curso en {siteName}!",
   "learning.effortEstimation.combinedEstimate": "{minutes} + {activities}",
-  "learning.effortEstimation.activities": "{activityCount, plural, one {# actividades} many {# actividades} other {# actividades}}",
+  "learning.effortEstimation.activities": "{activityCount, plural, one {# actividad} many {# actividades} other {# actividades}}",
   "learning.effortEstimation.minutesAbbreviated": "{minuteCount, plural, one {# min} many {# min} other {# min}}",
   "learning.effortEstimation.minutesFull": "{minuteCount, plural, one {# minutos} many {# minutos} other {# minutos}}",
   "learning.streakcelebration.factoida": "Los usuarios que aprenden {streak_length} días seguidos {bolded_section} que los que no lo hacen.",
